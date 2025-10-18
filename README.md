@@ -6,20 +6,18 @@
 
 ## Overview
 
-BnMMLU is a benchmark to evaluate the multitask language understanding capabilities of Bengali in language models. The dataset spans 23 domains including science, humanities, mathematics, and general knowledge, structured in a multiple-choice format to assess factual knowledge, application-based problem-solving, and reasoning abilities of language models.
+BnMMLU is a benchmark to evaluate the multitask language understanding capabilities of Bengali in language models. The dataset spans 41 domains including science, humanities, mathematics, and general knowledge, structured in a multiple-choice format to assess factual knowledge, application-based problem-solving, and reasoning abilities of language models.
 
 ## Dataset
 
-The BnMMLU dataset consists of 138,949 question-option pairs across 23 domains. The dataset is available on HuggingFace:
+The BnMMLU dataset consists of 138,949 question-option pairs across 41 domains. The dataset is available on HuggingFace:
 
 🤗 [samanjoy2/BnMMLU](https://huggingface.co/datasets/samanjoy2/BnMMLU)
 
 ## Features
 
-- Comprehensive evaluation across 23 domains
+- Comprehensive evaluation across 41 domains
 - Multiple-choice format with 4 options per question
-- Annotations for cognitive categories: factual knowledge, procedural application, and reasoning
-- Train/validation/test splits for model development and evaluation
 
 ## Usage
 
