@@ -7,8 +7,8 @@
 
 ## News
 
-Our paper, **"BnMMLU: Measuring Massive Multitask Language Understanding in Bengali"**, has been accepted to **Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)**.
-The preprint is also available on arXiv: [arXiv:2505.18951](https://arxiv.org/abs/2505.18951).
+🎉 Our paper, **"BnMMLU: Measuring Massive Multitask Language Understanding in Bengali"**, has been accepted to **Findings of the Association for Computational Linguistics: ACL 2026**.
+📄 The preprint is also available on arXiv: [arXiv:2505.18951](https://arxiv.org/abs/2505.18951).
 
 ## Overview
 
