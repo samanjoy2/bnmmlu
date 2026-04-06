@@ -1,6 +1,6 @@
 # BnMMLU: Measuring Massive Multitask Language Understanding in Bengali
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![ACL 2026 Findings](https://img.shields.io/badge/ACL%202026-Findings-blue)](#citation)
 [![arXiv](https://img.shields.io/badge/arXiv-2505.18951-b31b1b.svg)](https://arxiv.org/abs/2505.18951)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Dataset-yellow)](https://huggingface.co/datasets/samanjoy2/BnMMLU)
@@ -51,7 +51,7 @@ If you use BnMMLU in your research, please cite:
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the CC BY-SA 4.0 license. See the LICENSE file for details.
 
 ## Contact
 
