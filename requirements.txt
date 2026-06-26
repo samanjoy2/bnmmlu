@@ -1,0 +1,13 @@
+openai
+pandas
+python-dotenv
+numpy
+tqdm
+requests
+matplotlib
+seaborn
+transformers
+gpt3-tokenizer
+tokencost
+torch
+vllm

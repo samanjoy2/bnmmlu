@@ -32,7 +32,19 @@ The BnMMLU dataset consists of 134,375 multiple-choice question-option pairs acr
 
 ## Usage
 
-Code for loading and evaluating models on the BnMMLU benchmark will be released and maintained in this repository.
+Evaluation, batch-processing, dataset-construction, and analysis scripts are available in [`scripts/`](scripts/). Install the common dependencies with:
+
+```bash
+pip install -r requirements.txt
+```
+
+The vLLM-based open-weight model evaluators require a Linux/CUDA environment:
+
+```bash
+pip install -r requirements-vllm.txt
+```
+
+Use `.env.example` as the local environment template for API keys. Do not commit `.env` files.
 
 ## Citation
 

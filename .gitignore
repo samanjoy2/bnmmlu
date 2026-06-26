@@ -1,0 +1,38 @@
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Benchmark outputs and intermediate artifacts
+llm_test_results_*.csv
+llm_usage_*.csv
+subdomain_accuracy_*.txt
+random_answers_*.txt
+failed_questions_*.txt
+final_analysis*.json
+batch_index.jsonl
+batches/
+finished/
+reasoner_done/
+cot-reason/
+cot_5_direct/
+ab/
+analysis/out/
+
+# Generated figures and reports
+*.png
+*.pdf
+*.drawio
+
+# Model/tokenizer/cache artifacts
+deepseek_v3_tokenizer/
+unsloth_compiled_cache/
