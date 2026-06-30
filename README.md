@@ -6,6 +6,10 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2505.18951-b31b1b.svg)](https://arxiv.org/abs/2505.18951)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Dataset-yellow)](https://huggingface.co/datasets/samanjoy2/BnMMLU)
 
+## TL;DR
+
+BnMMLU is a Bengali massive multitask language understanding benchmark with 134,375 multiple-choice question-option pairs across 41 domains. It includes MathML-preserved math content, a harder stress-test subset called `BnMMLU-HARD`, and scripts for dataset construction, model evaluation, batch processing, and result analysis. The dataset is hosted on Hugging Face and the benchmark paper is published in Findings of ACL 2026.
+
 ## News
 
 - June 2026: BnMMLU is officially published in **Findings of the Association for Computational Linguistics: ACL 2026**. Read it on the [ACL Anthology](https://aclanthology.org/2026.findings-acl.593/) or download the [PDF](https://aclanthology.org/2026.findings-acl.593.pdf).
